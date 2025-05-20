@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useState, useRef } from "react";
 import "./App.css";
 
 let timer = null;
